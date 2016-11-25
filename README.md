@@ -1,0 +1,1 @@
+A simple JS calculator inspired by the ET66
